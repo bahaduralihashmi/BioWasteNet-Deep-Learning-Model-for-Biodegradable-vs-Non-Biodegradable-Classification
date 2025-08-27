@@ -1,0 +1,6 @@
+test: C:\Users\bahad\OneDrive\Desktop\ultralytics\datasets\test\images
+train: C:\Users\bahad\OneDrive\Desktop\ultralytics\datasets\train\images
+val: C:\Users\bahad\OneDrive\Desktop\ultralytics\datasets\val\images
+
+nc: 2
+names: ['biodegradable', 'non-biodegradable']
