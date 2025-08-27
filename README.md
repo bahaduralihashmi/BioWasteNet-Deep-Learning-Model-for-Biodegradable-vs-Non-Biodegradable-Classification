@@ -1,0 +1,2 @@
+# BioWasteNet-Deep-Learning-Model-for-Biodegradable-vs-Non-Biodegradable-Classification
+BioWasteNet is a lightweight deep learning architecture designed to classify materials into biodegradable and non-biodegradable categories. The model leverages a compact parameter space (169,690 trainable parameters) with a deep structure (119 layers) to achieve high accuracy while maintaining computational efficiency.
