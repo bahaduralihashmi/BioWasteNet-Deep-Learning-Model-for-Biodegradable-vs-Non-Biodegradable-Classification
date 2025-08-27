@@ -18,7 +18,7 @@ After this, you will see it open the IDEs with the Ultralytics folder in your sp
 4. In the terminal, run this script to verify that the  check .venv\script\activate  python interpreter is activated.
 5. You will see in the  terminal   (.venv) PS C:\Users\path\ultralytics>
 6. Install libraries in the terminal. pip install ultralytics onnx onnx-tf tensorflow seaborn
-pip install torch torchaudio torchvision--index-url https://download/pytorch.org/whl/cu118
+7. Also install. pip install torch torchaudio torchvision--index-url https://download/pytorch.org/whl/cu118
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""* Create a file yolov8n.yaml*"""""""""""""""""""""""""""""""""""""""
 
